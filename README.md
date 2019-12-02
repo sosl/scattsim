@@ -1,0 +1,2 @@
+# scattsim
+Simulate scattering
